@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  browserapp
 //
-//  Created by nipun sharma on 2015-10-19.
-//  Copyright © 2015 nipun. All rights reserved.
-//
+
 
 import UIKit
 
